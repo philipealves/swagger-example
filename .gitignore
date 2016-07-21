@@ -1,18 +1,21 @@
 /
 target/
+
 /
 bin/
 
 
 
-/.project
 
-/.classpath
+
 
 /.settings/
 
+
 /.springBeans
 
+
 /.gradle
+
 
 /.metadata
